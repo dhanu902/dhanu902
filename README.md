@@ -1,3 +1,5 @@
+![Amanda's Banner](https://via.placeholder.com/1200x400.png?text=Amanda+Dhanuji+%7C+AI+%26+Data+Science+Undergrad)
+
 # Hey there! I'm Dhanuji Amanda..! 👋
 
 I'm a 2nd-year AI & Data Science undergraduate passionate about building intelligent applications and solving real-world problems through machine learning and data-driven systems.
@@ -23,4 +25,12 @@ I'm a 2nd-year AI & Data Science undergraduate passionate about building intelli
 - Email: **dhanuji.20230759@iit.ac.lk**
 - LinkedIn: *[Insert your LinkedIn URL here]*
 
-Thanks for visiting my profile! Have a great day! 😊
+---
+
+## 📊 GitHub Stats
+
+![Amanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanu902&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanu902&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=dhanu902&theme=tokyonight)
