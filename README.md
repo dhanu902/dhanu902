@@ -1,4 +1,4 @@
-![Amanda's Banner](https://via.placeholder.com/1200x400.png?text=Amanda+Dhanuji+%7C+AI+%26+Data+Science+Undergrad)
+![Dhanu's Banner](img.png)
 
 # Hey there! I'm Dhanuji Amanda..! 👋
 
