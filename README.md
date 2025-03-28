@@ -21,7 +21,7 @@ I'm a 2nd-year AI & Data Science undergraduate passionate about building intelli
 
 ## 📫 Let's connect!
 - Email: **dhanuji.20230759@iit.ac.lk**
-- LinkedIn: *[(https://www.linkedin.com/in/dhanuji-jayasingha-94342a27b/)]*
+- LinkedIn: **https://www.linkedin.com/in/dhanuji-jayasingha-94342a27b/**
 
 ---
 
