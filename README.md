@@ -1,5 +1,3 @@
-![Dhanu's Banner](img.png)
-
 # Hey there! I'm Dhanuji Amanda..! 👋
 
 I'm a 2nd-year AI & Data Science undergraduate passionate about building intelligent applications and solving real-world problems through machine learning and data-driven systems.
