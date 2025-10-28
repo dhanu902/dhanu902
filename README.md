@@ -22,11 +22,6 @@ I'm a 3rd-year AI & Data Science undergraduate passionate about building intelli
 
 ## 📫 Let's connect!
 
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanujiamandaj529@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/...7b/](https://www.linkedin.com/in/dhanuji-jayasingha-94342a27b/))
-
-## 📫 Let's connect!
-
 <p align="lwft">
   <a href="mailto:dhanujiamandaj529@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png"/>
