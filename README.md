@@ -13,7 +13,6 @@ I'm a 3rd-year AI & Data Science undergraduate passionate about building intelli
 - **News Recommendation System** – A Java OOP-based recommender using context-based filtering for personalized news delivery
 
 ## 🌱 Currently...
-- Seeking **internship opportunities** in AI, ML or Data Science
 - Constantly exploring new ideas and technologies with curiosity and enthusiasm
 
 ## 💡 Fun Facts
