@@ -1,13 +1,14 @@
 # Hey there! I'm Dhanuji Amanda..! 👋
 
-I'm a 3rd-year AI & Data Science undergraduate passionate about building intelligent applications and solving real-world problems through machine learning and data-driven systems.
+I'm a last year AI & Data Science undergraduate passionate about building intelligent applications and solving real-world problems through machine learning and data-driven systems.
 
 ## 🔧 Tech Stack & Skills
-- Languages: **Python**, **Java**, **R**, **C**
+- Languages: **Python**, **Java**, **R**, **C**, **SQL**
 - Tools & Frameworks: **React**, **Flask**, **MongoDB**, **Git**
-- AI/ML: **NLP**, **Deep Learning**, **NN**
+- AI/ML: **NLP**, **Deep Learning**, **NN**, **Traditional ML**
 
 ## 🚀 Projects I'm Proud Of
+- **Out of Stock Prediction and Prevention** - An AI powered supply chain related web tool with Demand forecast engine, Inventory projection and recommendations.
 - **InsightHive** – An AI-powered marketing platform with Aspect-Based Sentiment Analysis, customer segmentation, engagement prediction and Recommendation System
 - **ETL Pipeline** - An automated process of Data Extracting, Data cleaning & transforming and finally Load into storage location for further analysis
 - **News Recommendation System** – A Java OOP-based recommender using context-based filtering for personalized news delivery
